@@ -1,0 +1,645 @@
+[
+    {
+        "time1": 2,
+        "time2": 23,
+        "wh": 130744,
+        "dtype": 4,
+        "dist": 373,
+        "id": 307046324,
+        "root": 287262613,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "MacBook Pro 16 M1 Pro 16 512 (Space Grey)",
+        "entity": "",
+        "matchId": 96391,
+        "supplier": "Wildberries",
+        "supplierId": 871441,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 57,
+        "nmFeedbacks": 57,
+        "panelPromoId": 1001365,
+        "promoTextCard": "РАСПРОДАЖА",
+        "promoTextCat": "РАСПРОДАЖА",
+        "volume": 131,
+        "viewFlags": 141,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 465462609,
+                "wh": 130744,
+                "time1": 2,
+                "time2": 23,
+                "dtype": 4,
+                "price": {
+                    "basic": 22999000,
+                    "product": 11591400,
+                    "total": 11604500,
+                    "logistics": 13100,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "SfqlTPEl+JM2Tty1mBk08u1lMbzxKhKIoYpC/it82jY5jJDlRUwacxd3W5NZQRiHkH4IOLwOnFN+XMx2"
+            }
+        ],
+        "totalQuantity": 71,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 3,
+        "time2": 41,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 1281,
+        "id": 359063793,
+        "rcId": 199,
+        "root": 345607217,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "MacBook Pro 16 M1 Pro 32 512 (Space Grey)",
+        "entity": "",
+        "matchId": 1953306,
+        "supplier": "Wildberries",
+        "supplierId": 1073233,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 14,
+        "nmFeedbacks": 14,
+        "panelPromoId": 1001365,
+        "promoTextCard": "РАСПРОДАЖА",
+        "promoTextCat": "РАСПРОДАЖА",
+        "volume": 131,
+        "viewFlags": 141,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 527911436,
+                "wh": 507,
+                "time1": 3,
+                "time2": 41,
+                "dtype": 4,
+                "price": {
+                    "basic": 29999000,
+                    "product": 12479500,
+                    "total": 12492600,
+                    "logistics": 13100,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "4vbDPrZ/jo+PhQySZ9BfHUTymagGwgj3O5kfB9rauTN+LZpcL8utsrSETb0uO4VyEWTT2O5hTXwM/Kst"
+            }
+        ],
+        "totalQuantity": 430,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 25,
+        "time2": 48,
+        "wh": 218804,
+        "dtype": 1,
+        "dist": 1253,
+        "id": 277406045,
+        "rcId": 199,
+        "root": 257170114,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Ноутбук MacBook Pro 16 M1 Pro 16 512 Space Grey (MK183)",
+        "entity": "",
+        "matchId": 104978835,
+        "supplier": "Cactus Shop",
+        "supplierId": 4277027,
+        "supplierRating": 4.9,
+        "supplierFlags": 0,
+        "pics": 11,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "volume": 148,
+        "viewFlags": 1581192,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 427020145,
+                "wh": 218804,
+                "time1": 25,
+                "time2": 48,
+                "dtype": 1,
+                "price": {
+                    "basic": 19354300,
+                    "product": 15483400,
+                    "total": 15498200,
+                    "logistics": 14800,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "CmEnuJQ1Q1sZ6X2oPVnjNQwPfB/eFp3/xy4rVUEjXjdcMnqI4cHm99EjVNRdqNQEflSa4LhhUploePnX"
+            }
+        ],
+        "totalQuantity": 3,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 3,
+        "time2": 41,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 1281,
+        "id": 344554856,
+        "rcId": 203,
+        "root": 264713310,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Ноутбук Macbook Pro 14 M3 8 512Gb Space Grey",
+        "entity": "",
+        "matchId": 214685817,
+        "supplier": "KOSMOSTORE GROUP",
+        "supplierId": 4070164,
+        "supplierRating": 4.8,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.3,
+        "feedbacks": 8,
+        "nmFeedbacks": 3,
+        "volume": 78,
+        "viewFlags": 1335305,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 511933218,
+                "wh": 507,
+                "time1": 3,
+                "time2": 41,
+                "dtype": 4,
+                "price": {
+                    "basic": 15893400,
+                    "product": 11316100,
+                    "total": 11323900,
+                    "logistics": 7800,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "wtYORZJp0aBbNOQiTPy5EnIlXfv6HIJUU6o+nAdSgPQY5vV5f+SRD1vkMzsQeMfVPb838/xfyW7vcvtb"
+            }
+        ],
+        "totalQuantity": 11,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 25,
+        "time2": 48,
+        "wh": 218804,
+        "dtype": 1,
+        "dist": 1253,
+        "id": 302549902,
+        "rcId": 203,
+        "root": 254341028,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Ноутбук MacBook Pro 14 M3 8GB 1TB Space Grey (MTL83)",
+        "entity": "",
+        "matchId": 202292549,
+        "supplier": "Cactus Shop",
+        "supplierId": 4277027,
+        "supplierRating": 4.9,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 0,
+        "feedbacks": 8,
+        "nmFeedbacks": 0,
+        "panelPromoId": 1001365,
+        "promoTextCard": "РАСПРОДАЖА",
+        "promoTextCat": "РАСПРОДАЖА",
+        "volume": 78,
+        "viewFlags": 1581065,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 459656107,
+                "wh": 218804,
+                "time1": 25,
+                "time2": 48,
+                "dtype": 1,
+                "price": {
+                    "basic": 17452600,
+                    "product": 13962000,
+                    "total": 13969800,
+                    "logistics": 7800,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "2UsSXnsz87axyFWwBfT26CmPvrh9q24I36f5XgSq+0oDTilkmGmDCkFUoyHt0m2Wrvjh0A4J7nPPNMzh"
+            }
+        ],
+        "totalQuantity": 3,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 25,
+        "time2": 48,
+        "wh": 218804,
+        "dtype": 1,
+        "dist": 1253,
+        "id": 274580675,
+        "rcId": 203,
+        "root": 254341028,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Ноутбук MacBook Pro 14 M3 8 512 Space Grey (MTL73)",
+        "entity": "",
+        "matchId": 51425,
+        "supplier": "Cactus Shop",
+        "supplierId": 4277027,
+        "supplierRating": 4.9,
+        "supplierFlags": 0,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 8,
+        "nmFeedbacks": 1,
+        "volume": 78,
+        "viewFlags": 1581064,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 423450670,
+                "wh": 218804,
+                "time1": 25,
+                "time2": 48,
+                "dtype": 1,
+                "price": {
+                    "basic": 14879400,
+                    "product": 11903500,
+                    "total": 11911300,
+                    "logistics": 7800,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "RB7yGqihHYQXhTx6/gx83lsmYx6tnPGxtgbpfl0BnUboVDzMvC2bzAsR6psFFt2Zu5EQntr5ynHne9o8"
+            }
+        ],
+        "totalQuantity": 3,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 3,
+        "time2": 41,
+        "wh": 507,
+        "dtype": 4,
+        "dist": 1281,
+        "id": 403262744,
+        "rcId": 203,
+        "root": 396223957,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Ноутбук Macbook Pro 14 M3 8 512Gb Space Grey",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "MARKET TRADE GROUP",
+        "supplierId": 4404233,
+        "supplierRating": 4.9,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "volume": 78,
+        "viewFlags": 1318922,
+        "isNew": true,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 581252958,
+                "wh": 507,
+                "time1": 3,
+                "time2": 41,
+                "dtype": 4,
+                "price": {
+                    "basic": 14619000,
+                    "product": 11110400,
+                    "total": 11118200,
+                    "logistics": 7800,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "Yk+YgcmFLbvYY6iIWMvJEiBv1hyWBIm8z3r9Hu3TKMIduD1k+BaSuuM5MxGXC3vLcQhrv5wtu1CysKwp"
+            }
+        ],
+        "totalQuantity": 5,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 28,
+        "time2": 48,
+        "wh": 218804,
+        "dtype": 1,
+        "dist": 1253,
+        "id": 204594900,
+        "root": 185367772,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Macbook Pro 14 M3 8 512 (Space Grey)MTL73",
+        "entity": "",
+        "matchId": 51425,
+        "supplier": "rv-Stock",
+        "supplierId": 1353909,
+        "supplierRating": 4.6,
+        "supplierFlags": 0,
+        "pics": 4,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "volume": 132,
+        "viewFlags": 532488,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 329184799,
+                "wh": 218804,
+                "time1": 28,
+                "time2": 48,
+                "dtype": 1,
+                "price": {
+                    "basic": 15135900,
+                    "product": 11503200,
+                    "total": 11516400,
+                    "logistics": 13200,
+                    "return": 0
+                },
+                "saleConditions": 134217739,
+                "payload": "Qo7oVFIfvmpxFQ74c/d5QHCmmTOeTgD0/sROHb7vAsikpJ37Lug/yHIUalNlOMZsjie0+MuZNYIb1X8g"
+            }
+        ],
+        "totalQuantity": 5,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 17,
+        "time2": 56,
+        "wh": 211730,
+        "dtype": 1,
+        "dist": 1380,
+        "id": 333361538,
+        "root": 314891892,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "Ноутбук Macbook Air 13 A2337 Space Grey",
+        "entity": "",
+        "matchId": 155906543,
+        "supplier": "play-off.pro",
+        "supplierId": 4202792,
+        "supplierRating": 4.7,
+        "supplierFlags": 0,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 5,
+        "nmFeedbacks": 5,
+        "panelPromoId": 1001365,
+        "promoTextCard": "РАСПРОДАЖА",
+        "promoTextCat": "РАСПРОДАЖА",
+        "volume": 117,
+        "viewFlags": 1581064,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 498593643,
+                "wh": 211730,
+                "time1": 17,
+                "time2": 56,
+                "dtype": 1,
+                "price": {
+                    "basic": 13800000,
+                    "product": 5520000,
+                    "total": 5531700,
+                    "logistics": 11700,
+                    "return": 0
+                },
+                "saleConditions": 134217730,
+                "payload": "kYn0WLnPrybz9g4FcHEk+H6hA2vJksBxqjY+Vih/38YVWzaK6lDTN/yZW5MnhkI4FdNfZqTrVRkJ2RBn"
+            }
+        ],
+        "totalQuantity": 20,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    },
+    {
+        "time1": 60,
+        "time2": 41,
+        "wh": 218671,
+        "dtype": 1,
+        "dist": 1331,
+        "id": 366933311,
+        "rcId": 206,
+        "root": 357648431,
+        "kindId": 0,
+        "brand": "Apple",
+        "brandId": 6049,
+        "siteBrandId": 0,
+        "colors": [
+            {
+                "name": "серый",
+                "id": 8421504
+            }
+        ],
+        "subjectId": 2290,
+        "subjectParentId": 6238,
+        "name": "MacBook Air 13 M2 8 256 Space Grey",
+        "entity": "",
+        "matchId": 193307647,
+        "supplier": "Gadget Pro",
+        "supplierId": 4500736,
+        "supplierRating": 4.8,
+        "supplierFlags": 16,
+        "pics": 4,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "panelPromoId": 1001365,
+        "promoTextCard": "РАСПРОДАЖА",
+        "promoTextCat": "РАСПРОДАЖА",
+        "volume": 132,
+        "viewFlags": 1581184,
+        "sizes": [
+            {
+                "name": "",
+                "origName": "0",
+                "rank": 0,
+                "optionId": 537380249,
+                "wh": 218671,
+                "time1": 60,
+                "time2": 41,
+                "dtype": 1,
+                "price": {
+                    "basic": 20187200,
+                    "product": 7428800,
+                    "total": 7442000,
+                    "logistics": 13200,
+                    "return": 0
+                },
+                "saleConditions": 134217730,
+                "payload": "MIZTY0BaXk8Pql56HegzLzv12AJK+6uuxnFXEet72+9l0ozAoYnxG1gvMAzky1u06JzxQE644gqkZVOE"
+            }
+        ],
+        "totalQuantity": 1,
+        "meta": {
+            "tokens": [],
+            "presetId": 19293464
+        }
+    }
+]
