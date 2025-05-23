@@ -1,10 +1,10 @@
 import json
 import urllib.parse
-from settings import config as configure
+from settings.config import settings
 
 async def launch_and_return_browser_ws_endpoint(profile_id, headless=False):
     host = 'localhost:8848'
-    api_key = configure['NST']['token']
+    api_key = settings['NST_Token']
     config = {
         "headless": headless,
         "autoClose": True

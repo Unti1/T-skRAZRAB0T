@@ -2,7 +2,7 @@ import psutil
 import json
 import random
 import requests
-from settings import *
+from settings.config import settings
 
 platforms_array = ["macos", "windows", "linux"]
 
@@ -45,7 +45,7 @@ memory = [2, 4, 8]
 
 
 def authentication(username: str = '', password: str = ''):
-    return config["Dolphin"]["token"]
+    return settings["DolphinToken"]
 
 
 def get_new_user_agent(platform: str, session: requests.Session):

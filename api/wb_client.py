@@ -14,6 +14,7 @@ class HTTPClient:
     async def __aexit__(self, exc_type, exc, tb):
         await self._session.close()
 
+
 class WBCardClient(HTTPClient):
     def __init__(self, base_url="https://card.wb.ru"):
         super().__init__(base_url=base_url)
@@ -56,7 +57,7 @@ class WBCardClient(HTTPClient):
                     if resp.status == 200:
                         data = await resp.json()
                         break
-        
+
         return " | ".join(
             [
                 data["imt_name"],

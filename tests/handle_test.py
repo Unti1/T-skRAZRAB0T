@@ -1,6 +1,6 @@
 import asyncio
 import json
-from api.client import WBCardClient, WBSearchClient
+from api.wb_client import WBCardClient, WBSearchClient
 from tools.keywords_extraction import extract_keywords_tfidf
 
 
