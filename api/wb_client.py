@@ -73,7 +73,7 @@ class WBSearchClient(HTTPClient):
     def __init__(self, base_url="https://search.wb.ru"):
         super().__init__(base_url=base_url)
 
-    async def get_products_per_query(self, query: str):
+    async def get_products_per_query(self, query: str, page = 1):
         params = {
             "ab_testing": "false",
             "appType": "1",
@@ -81,7 +81,7 @@ class WBSearchClient(HTTPClient):
             "dest": "-1116963",
             "hide_dtype": "13",
             "lang": "ru",
-            "page": "1",
+            "page": page,
             "query": query,
             "resultset": "catalog",
             "sort": "popular",
